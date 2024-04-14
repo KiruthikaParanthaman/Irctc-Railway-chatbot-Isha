@@ -1,0 +1,139 @@
+categories:
+- conversations
+conversations:
+- - hi isha
+  - hi there. how are you doing?
+  - i'm good.
+  - that's good to hear.
+- - hello
+  - hi
+  - how are you doing?
+  - i am doing well.
+  - that is good to hear
+  - yes it is.
+  - can i help you with anything?
+  - yes, i have a question.
+  - what is your question?
+  - what is your name?
+  - my name is isha,disha2.0 sibling
+- - hi, what is your name?
+  - my name is isha. i help you in booking ticket
+  - that's good.
+  - thank you.
+- - who are you?
+  - i'm isha. your chat assistant
+- - tell me about your self.
+  - i'm isha. your chat assistant
+  - are you a robot?
+  - yes i am.
+  - what is it like?
+  - what is it that you want to know?
+  - how do you work?
+  - its complicated.
+  - complex is better than complicated.
+- - can i ask you a question?
+  - sure, ask away.
+- - hi,
+  - hello there.how can i help you?
+  - how are you doing
+  - fine
+  - great.
+- - hi isha
+  - hello there.
+  - how are you
+  - fantastic.thank you for asking.how may i assist you?
+- - how are you
+  - great.if you want me book ticket,type 'book ticket
+- - how are you",
+  - awesome.thank you for asking.nobody asks me these days.how can i help you?
+- - what is your name
+  - my name is isha.i'm here to assist you in train ticket booking
+- - how should i call you
+  - you can call me isha
+  - ok
+  - great,appreciate it!
+- - thanks
+  - happy to assist
+- - goodbye
+  - bye.have a nice day
+- - bye
+  - thanks for visiting.have a nice day
+- - okay
+  - great,thanks!
+categories:
+- tatkal
+conversations:
+- - what are the various classes of travel available in tatkal?
+  - tatkal bookings are allowed in all classes except first ac and executive class.
+- - can i select ladies or general quota  along with tatkal quota? 
+  - ladies and general quota cannot be opted for along with tatkal quota.
+- - how can i use the internet reservation facility to book tatkal quota?
+  - on book ticket enquiry box displayed on home page, please select tatkal option from quota dropdown. for some trains/class/locations tatkal quota may not be available.please check the     
+    availability before proceeding further.
+- - what are the concessions available in tatkal scheme?
+  - no concession is allowed in tatkal booking. 
+categories:
+- booking
+conversations:
+- - max no of passengers allowed per ticket?
+  - 6 for general tickets and 4 for tatkal tickets.
+- - can wait listed tickets booked?
+  - yes,it can be booked.
+- - can rac tickets booked ?
+  - yes.
+- - can confirmed tickets booked ?
+  - yes.
+- - max time limit up to which tickets can be booked ?
+  - up to chart preparation.
+- - is name change permissible ?
+  - no, facility to change passengers name is not available on irctc website. however, name can be changed at railway counters as per extant railway rules.
+- - is journey alterations permissible ?
+  - no.
+- - is change of boarding point permissible ?
+  - yes, facility to change boarding point is available on irctc website.
+- - can ticket cancellation be done across counters ?
+  - no.
+- - can both credit card and debit card be used for booking ?
+  - yes, all payment options viz. credit cards, debit cards, net banking, wallets and multiple payment service etc. are available on make payment page.
+- - can partial cancellation be done before charting ?
+  - yes.
+- - is id proof required for booking ?
+  - no at the time of booking but required during train journey.
+- - authority to travel
+  - electronic reservation slip - printed in standard stationery/vrm/sms sent by irctc along with the original id of one of the passenger traveling on a pnr.
+- - booking hours
+  - 12.20 am to 11.45 pm.
+- - max no of bookings per month ?
+  - 12 by verifying irctc user id and one of the travelling passenger with their corresponding aadhaar, 24 bookings can be made per month.
+- - can concessional tickets be booked ?
+  - senior citizen concession, divyaang concession and journalist concessions are allowed on booking tickets on irctc as per railway rules and may change from time to time as per  
+    notification issued by railways.
+- - can tatkal be booked ?
+  - yes.
+- - what are the quotas that can be booked?
+  - general, ladies, sr. citizen, divyaang, tatkal, premium tatkal quota
+- - how to locate the tickets ?
+  - go to my account->my transactions->booked ticket history
+- - how can i make payment to book e-ticket?
+  - all payment options have been grouped under specific categories (viz. credit cards, net banking, wallets and multiple payment service etc.) select the desired payment option from the 
+    displayed payment gateway menus. click on "make payment" button for redirection to selected bank website.
+- - how to postpone/prepone journey?
+  - this can be done on line by cancelling the original ticket and booking a fresh ticket
+- - can partial ticket cancellation be done?
+  - yes. partial cancellation can be done. user has to log on to www.irctc.co.in and go to my account->my transactions->booked ticket history link and select the ticket to be cancelled and 
+    can initiate cancellation by selecting the passengers to be cancelled. all cancellation and refunds are processed as per extant railway rules.
+- - can i book student/other concession ticket?
+  - student concession facility is not available for e-ticket. however, divyaang passengers having photo identity card issued by railways can avail the concession on online e-ticket 
+    booking through irctc. similarly, journalist passengers having photo identity card issued by railways can avail the concession on online e-ticket booking through irctc.
+- - how to check pnr status?
+  - you can check the pnr status by visiting the official website https://www.indianrail.gov.in/enquiry/pnr/pnrenquiry.html?locale=en or sms your pnr to 139
+- - can i cancel the confirmed tatkal ticket
+  - no refund will be granted on cancellation of confirmed tatkal tickets. partial cancellation of tatkal e-tickets is allowed .
+- - can i cancel the confirmed ticket?
+  - confirmed e-ticket can be cancelled before chart preparation. e-ticket cannot be cancelled after chart preparation. users are requested to use the online tdr filing for such cases and track status of the refund case through tracking service provided by irctc.however no refund will be given for confirmed tatkal tickets
+- - how to cancel booked tickets?
+  - go to my account->my transactions->booked ticket history and cancel the tickets.kindly note that no refund will be provided for confirmed tatkal tickets
+- - can i cancel tickets
+  - yes.go to my account->my transactions->booked ticket history and cancel the tickets.kindly note that no refund will be provided for confirmed tatkal tickets
+
+ 
