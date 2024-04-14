@@ -1,6 +1,5 @@
 #Import the necessary packages
 import streamlit as st
-from streamlit_mic_recorder import mic_recorder, speech_to_text
 import random
 import time
 import json
