@@ -24,4 +24,6 @@ Meet 'Isha" :  Sibling of Irctc chatbot Disha.2.0. Disha is too formal, while Is
 - Disha cannot handle small greetings like "hi","hello".Isha is equipped to handle such greetings
 
 **Preview of application**:
+![isha chat1](https://github.com/KiruthikaParanthaman/Irctc-Railway-chatbot-Isha/assets/141828622/463eced1-0fd9-4f6b-9b35-c6ee6483ee76)
+
 
