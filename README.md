@@ -3,7 +3,7 @@ Meet 'Isha" :  Sibling of Irctc chatbot Disha.2.0. Disha is too formal, while Is
 
 **Who is Isha?**:
  - Isha is chatbot inspired from Disha 2.0 Irctc official chatbot
- - Isha is developed for experimental and personal learning purposes
+ - Isha is developed for experimental and personal learning purposes using Chatterbot library chatbot feature
  - Isha is trained using small set of publicy available frequently asked questions(faq's) in irctc official website,general conersations corpus from chatterbot and personalized question sets like what is your name?
  - Isha is **hybrid model** - using both Rule based approach and Machine Learning approach
  - **Chatterbot** library is used for training the chatbot with customised training dataset
@@ -11,7 +11,8 @@ Meet 'Isha" :  Sibling of Irctc chatbot Disha.2.0. Disha is too formal, while Is
  - Chatbot guides the user with prompts about source and destination station codes and helps in re-entering details if error occurs
  - Isha fetches irctc train details  based on publicly available upi resources. There could be mismatches between the official train lists. As it is experiemntal, the accuracy of informations is not guaranteed.
  - Isha replies with default response if best matches couldnt be found in the training dataset
- - User prompts are pre-processed with methods like **lowercasing,Tokenizing,spelling correction,Part of Speech Tagging,White Space removal,Lemmatization,spelling correction** 
+ - User prompts are pre-processed with methods like **lowercasing,Tokenizing,spelling correction,Part of Speech Tagging,White Space removal,Lemmatization,spelling correction**
+   
 
 
 **What can Isha do?**:
@@ -20,10 +21,17 @@ Meet 'Isha" :  Sibling of Irctc chatbot Disha.2.0. Disha is too formal, while Is
 - 
 
 **How it is different from Disha 2.0**:
-- Disha is Rule based algorithm, i.e., it can handle requests only when prompted with exact questions like for booking user should type "I want to book ticket".If user prompts otherwise like could you book ticket or book ticket Disha Disha replies with default apology response. But Isha has little bit of flexible approach.It checks for best matches with trained dataset
+- **Disha is Rule based algorithm**, i.e., it can handle requests only when prompted with exact questions like for booking user should type "I want to book ticket".If user prompts otherwise like could you book ticket or book ticket Disha Disha replies with default apology response. But Isha has little bit of flexible approach.It checks for best matches with trained dataset
 - Disha cannot handle small greetings like "hi","hello".Isha is equipped to handle such greetings
 
 **Preview of application**:
 ![isha chat1](https://github.com/KiruthikaParanthaman/Irctc-Railway-chatbot-Isha/assets/141828622/463eced1-0fd9-4f6b-9b35-c6ee6483ee76)
 
+**Tools and Technologies used**:
+Chatterbot,Pandas,nltk,textblob,Jupyter,Visual Studio,Streamlit
+
+**Future Developments in pipeline**
+- To train Isha with deep-learning models and with more dataset to impart intelligence
+- Make Isha capable of handle all questions related to indian railways
+- Handle ticket availability status,pnr status
 
